@@ -4,7 +4,7 @@
 # English
 ## Font Of To The King's Clock
 THIS FONT IS SHOWN ON "To the King" , that is OGN tv show, for how long playing game to defeat the king
-that's clock just show 0~9 and colon.  that's clock just show 0~9 and colon. SO this font same too!
+that's clock just show 0\~9 and colon.  that's clock just show 0\~9 and colon. SO this font same too!
 
 It is written under MIT license and Beerware. So give me Beer!
 When I try to export to open type font, it was broken. So now I just publish only on true type.
